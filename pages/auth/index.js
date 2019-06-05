@@ -1,6 +1,6 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
-class AuthPage extends Component {
+class AuthIndexPage extends Component {
     render() {
         return (
             <div>
@@ -10,4 +10,4 @@ class AuthPage extends Component {
     };
 };
 
-export default AuthPage;
+export default AuthIndexPage;
